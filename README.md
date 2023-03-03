@@ -18,7 +18,6 @@
 
 ![Header](./github-header-image.png)
 
-
 Dr. Ali Asghar Heidari has been an Exceptionally Talented Ph.D. Researcher with the School of Computing, National University of Singapore (NUS), University of Tehran, and an elite researcher of Iran's National Elites Foundation (INEF). He has authored more than 200 research articles with over 16500 citations (H-index of 64) in prestigious international journals such as IEEE Internet of Things, Information Fusion, Information Sciences, Future Generation Computer Systems and Renewable & Sustainable Energy Reviews, among others. His contributions to the field have been acknowledged by Research.com, Stanford University, and Publons, who have ranked him amongst the top 2% of scientists and 1% of peer reviewers, respectively. His research interests span a wide range of topics including performance optimization, advanced machine learning, evolutionary computation, information systems, and mathematical modeling. For more information, researchers can refer to his website https://aliasgharheidari.com.
 
 
