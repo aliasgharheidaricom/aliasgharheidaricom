@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
 <img src="https://img.shields.io/badge/Focus-Optimization-brightgreen" />
 <img src="https://img.shields.io/badge/Focus-Artificial Intelligence-brightgreen" />
-
+![](https://img.shields.io/static/v1?label=Profile+views&message=29052&color=brightgreen)
 
 ### <h1 align="left"> Ali Asghar Heidari. PhD., Citations: 16490, H-index:64
 
@@ -22,5 +22,4 @@ Dr. Ali Asghar Heidari has been an Exceptionally Talented Ph.D. Researcher with 
 
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliasgharheidaricom)
 
