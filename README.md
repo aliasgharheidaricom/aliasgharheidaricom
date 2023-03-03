@@ -10,8 +10,7 @@
 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliasgharheidaricom&theme=zenburn)
-![Github stats](https://github-readme-stats.vercel.app/api?username=aliasgharheidaricom&theme=calm&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgharheidaricom&theme=cobalt&langs_count=10&layout=compact) 
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliasgharheidaricom&theme=zenburn)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aliasgharheidaricom&theme=zenburn&utcOffset=8)
 
