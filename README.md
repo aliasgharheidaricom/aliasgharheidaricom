@@ -7,6 +7,11 @@
 [![Citations](https://img.shields.io/badge/Google%20Scholar-Citations-blue?style=flat&logo=Google%20Scholar)](https://scholar.google.com/citations?user=RhDaNTUAAAAJ)
 [![H-Index](https://img.shields.io/badge/Google%20Scholar-H--Index-blue?style=flat&logo=Google%20Scholar)](https://scholar.google.com/citations?user=RhDaNTUAAAAJ)
 
+### <h1 align="center"> Ali Asghar Heidari. PhD., Citations: 16490, H-index:64
+
+
+
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliasgharheidaricom)
  
