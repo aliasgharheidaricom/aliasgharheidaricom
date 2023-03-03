@@ -1,4 +1,6 @@
 
+
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aliasghar68@gmail.com)](mailto:aliasghar68@gmail.com)
 ![githubbadge](https://img.shields.io/github/followers/aliasgharheidaricom?style=social)
 ![githubbadge](https://img.shields.io/github/stars/aliasgharheidaricom?style=social)
@@ -6,6 +8,11 @@
 [![ResearchGate](https://img.shields.io/badge/Research-Gate-sucess?style=flat&logo=researchgate)](https://www.researchgate.net/profile/Ali-Asghar-Heidari) 
 [![Citations](https://img.shields.io/badge/Google%20Scholar-Citations-blue?style=flat&logo=Google%20Scholar)](https://scholar.google.com/citations?user=RhDaNTUAAAAJ)
 [![H-Index](https://img.shields.io/badge/Google%20Scholar-H--Index-blue?style=flat&logo=Google%20Scholar)](https://scholar.google.com/citations?user=RhDaNTUAAAAJ)
+<img src="https://img.shields.io/badge/Age-32-blue" />
+<img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+<img src="https://img.shields.io/badge/Focus-Optimization-brightgreen" />
+<img src="https://img.shields.io/badge/Focus-Artificial Intelligence-brightgreen" />
+
 
 ### <h1 align="left"> Ali Asghar Heidari. PhD., Citations: 16490, H-index:64
 
