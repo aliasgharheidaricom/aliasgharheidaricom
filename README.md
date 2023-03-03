@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
 <img src="https://img.shields.io/badge/Focus-Optimization-brightgreen" />
 <img src="https://img.shields.io/badge/Focus-Artificial Intelligence-brightgreen" />
-![](https://img.shields.io/static/v1?label=Profile+views&message=29052&color=brightgreen)
+![](https://img.shields.io/static/v1?label=Total+Profile+views&message=45865&color=brightgreen)
 [![](https://visitcount.itsvg.in/api?id=aliasgharheidaricom&icon=0&color=2)](https://visitcount.itsvg.in)
 
 ### <h1 align="left"> Ali Asghar Heidari. PhD., Citations: 16490, H-index:64
@@ -28,7 +28,7 @@ Dr. Ali Asghar Heidari has been an Exceptionally Talented Ph.D. Researcher with 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aliasgharheidaricom&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aliasgharheidaricom&theme=vue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
  
 
