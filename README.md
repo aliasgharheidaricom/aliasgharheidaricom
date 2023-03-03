@@ -16,9 +16,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aliasgharheidaricom&theme=zenburn&utcOffset=8)
 
 
-<img src="https://komarev.com/ghpvc/?username=aliasgharheidaricom&label=Profile%20views&color=0e75b6&style=flat" alt="jingweitoo" /> </p>
+<img src="https://komarev.com/ghpvc/?username=aliasgharheidaricom&label=Profile%20views&color=0e75b6&style=flat" alt="aliasgharheidaricom" /> </p>
 <p align="left"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-	<img src="https://github-profile-trophy.vercel.app/?username=aliasgharheidaricom&theme=alduin&margin-w=15" alt="jingweitoo" />
+	<img src="https://github-profile-trophy.vercel.app/?username=aliasgharheidaricom&theme=alduin&margin-w=15" alt="aliasgharheidaricom" />
 	</a> 
 </p>
