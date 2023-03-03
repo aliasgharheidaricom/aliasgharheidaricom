@@ -9,14 +9,15 @@
  
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliasgharheidaricom&theme=zenburn)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliasgharheidaricom)
  
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliasgharheidaricom&theme=zenburn)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aliasgharheidaricom&theme=zenburn&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aliasgharheidaricom)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aliasgharheidaricom&utcOffset=8)
+
 
 
 <p align="left"> 
 	<a href="https://github.com/ryo-ma/github-profile-trophy">
-	<img src="https://github-profile-trophy.vercel.app/?username=aliasgharheidaricom&theme=alduin&margin-w=15" alt="aliasgharheidaricom" />
+	<img src="https://github-profile-trophy.vercel.app/?username=aliasgharheidaricom&margin-w=15" alt="aliasgharheidaricom" />
 	</a> 
 </p>
