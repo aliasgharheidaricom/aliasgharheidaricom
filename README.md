@@ -2,7 +2,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aliasghar68@gmail.com)](mailto:aliasghar68@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/a_asgharheidari) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/a_asgharheidari) 
 ![githubbadge](https://img.shields.io/github/followers/aliasgharheidaricom?style=social)
 ![githubbadge](https://img.shields.io/github/stars/aliasgharheidaricom?style=social)
 [![MATLAB](https://img.shields.io/badge/MATLAB-File%20Exchange-red?style=flat&logo=mathworks)]([https://www.mathworks.com/matlabcentral/profile/authors/12879262?s_tid=gn_comm](https://www.mathworks.com/matlabcentral/profile/authors/3996469))
