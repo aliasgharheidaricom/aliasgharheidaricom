@@ -15,7 +15,9 @@
 ![](https://img.shields.io/static/v1?label=Total+Profile+views&message=45865&color=brightgreen)
 [![](https://visitcount.itsvg.in/api?id=aliasgharheidaricom&icon=0&color=1)](https://visitcount.itsvg.in)
 
-Dr. Ali Asghar Heidari has been a researcher with the School of Computing at the National University of Singapore (NUS), the University of Tehran, Wenzhou University, and recognized as an elite by Iran's National Elites Foundation (INEF). Dr. Heidari has contributed to over 200 research articles, gaining over 23,500+ citations and achieving an H-index of 70+. His work spans performance optimization, advanced machine learning, evolutionary computation, information systems, and mathematical modeling. Delve deeper into his contributions and insights on his website.
+Dr. Ali Asghar Heidari has been a researcher with the School of Computing at the National University of Singapore (NUS), the University of Tehran, Wenzhou University, and recognized as an elite by Iran's National Elites Foundation (INEF). Dr. Heidari has contributed to over 200 research articles, gaining over 23,500+ citations and achieving an H-index of 70+. His work spans performance optimization, advanced machine learning, evolutionary computation, information systems, and mathematical modeling. Delve deeper into his contributions and insights on his website https://aliasgharheidari.com
+
+
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=aliasgharheidaricom&theme=vue&hide_border=false)
 
 
