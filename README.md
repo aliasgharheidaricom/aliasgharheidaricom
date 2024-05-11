@@ -11,9 +11,10 @@
 <img src="https://img.shields.io/badge/Age-32-blue" />
 <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
 <img src="https://img.shields.io/badge/Focus-Optimization-brightgreen" />
-<img src="https://img.shields.io/badge/Focus-Artificial Intelligence-brightgreen" />
+<img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-brightgreen" />
 ![](https://img.shields.io/static/v1?label=Total+Profile+views&message=45865&color=brightgreen)
 [![](https://visitcount.itsvg.in/api?id=aliasgharheidaricom&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
 🔬 **Dr. Ali Asghar Heidari** has been a researcher with the School of Computing at the National University of Singapore (NUS), the University of Tehran, Wenzhou University, and recognized as an elite by Iran's National Elites Foundation (INEF). 
 
